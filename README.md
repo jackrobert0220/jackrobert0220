@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1>👋 Hi, I'm Jack, an <a href="https://www.linkedin.com/in/jack-glazer">IT Professional</a> 💻 & Musician</a> 🎸 </h1>
+
+<h2>👨‍💻 Information Technology Projects:</h2>
 
 <!--
 **jackrobert0220/jackrobert0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
