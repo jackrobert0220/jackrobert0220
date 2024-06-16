@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Jack, an <a href="https://www.linkedin.com/in/jack-glazer">IT Professional</a> 💻 & Musician</a> 🎸 </h1>
+<h1>👋 Hi, I'm Jack, an <a href="https://www.linkedin.com/in/jack-glazer">IT Professional</a> 💻
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
